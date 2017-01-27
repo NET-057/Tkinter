@@ -1,2 +1,4 @@
 Mattrix Traverse.py
->> simple motion of rectangle in a mattrix
+>> Simple Motion Of Rectangle In a Mattrix
+DFS.py
+>> Depth First Traversal For Graph Data Structure
